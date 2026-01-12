@@ -1,0 +1,51 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. How do I determine the right dumpster size for my project?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Choosing the right size depends on your debris type and volume. A 10 cubic yard dumpster rental is great for heavy inert materials or small cleanouts, while a 30 yard roll off dumpster rental is better for whole-home cleanouts. We help customers nationwide assess their needs over the phone.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What items are prohibited in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For safety and environmental reasons, you cannot dispose of hazardous materials in our units. This includes batteries, paint, tires, asbestos, and flammable liquids in any garbage dumpster rental nationwide. We can provide a full list of prohibited items for your specific state.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. How long can I keep the rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental period is typically 7 to 14 days, depending on the region. However, we offer temporary dumpster rental extensions if your project takes longer. Just let us know your timeline when booking your roll off container rental nationwide.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Is there a weight limit for the dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, every dumpster box has a weight limit based on its size and local road laws. For example, a construction debris dumpster used for concrete will have different restrictions than one used for household trash. We will clarify the tonnage allowance for your rental nationwide.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Do I need to be present for delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You generally do not need to be home for the drop-off of your roll off rental nationwide, provided the delivery area is clear and accessible. Please ensure no cars or gates are blocking the spot where you want the waste management bin rental placed.</p>
+                <h4 class="template4 palooma" style="font-size:large;">6. Can I place the dumpster on the street?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Placing a roll off on a public street usually requires a permit from your local city or municipality. If you keep the unit on your private driveway, a permit is rarely needed. We advise checking local regulations for city dumpsters in your specific area.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
